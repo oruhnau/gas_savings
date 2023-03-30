@@ -2,11 +2,11 @@
 
 The code (and raw data) contained in this repository replicates the analyis in
 
-> Ruhnau, O., Stiewe, C., Muessel, J., Hirth, L., 2023: Natural gas savings in Germany during the 2022 energy crisis. DOI: will be added
+> Ruhnau, O., Stiewe, C., Muessel, J., Hirth, L., 2023: Natural gas savings in Germany during the 2022 energy crisis. Journal name and DOI will be added
 
 The compiled dataset is published on 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7361513.svg)](https://doi.org/10.5281/zenodo.7782052)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7782052.svg)](https://doi.org/10.5281/zenodo.7782052)
 
 ## Repo structure
 
