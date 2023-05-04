@@ -2,7 +2,7 @@
 
 The code (and raw data) contained in this repository replicates the analyis in
 
-> Ruhnau, O., Stiewe, C., Muessel, J., Hirth, L., 2023: Natural gas savings in Germany during the 2022 energy crisis. Journal name and DOI will be added
+> Ruhnau, O., Stiewe, C., Muessel, J., Hirth, L., 2023: Natural gas savings in Germany during the 2022 energy crisis. Nature Energy. DOI: [10.1038/s41560-023-01260-5](https://doi.org/10.1038/s41560-023-01260-5)
 
 The compiled dataset is published on 
 
